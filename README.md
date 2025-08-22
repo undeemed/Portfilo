@@ -29,7 +29,7 @@ Hardware Projects:
   -  I plan to host and build publicly starting with this so I won't need stuff like this on github anymore
  
 - Offline LLM for Solace:
-  - Raspberry PI 4
+  - Raspberry Pi 4
   - 6~7 tokens/s
   - ~10w power draw on 99% usage
   - 2.5GB storage
