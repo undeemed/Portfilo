@@ -1,5 +1,5 @@
 # Portfilo
-List of WIP cool stuff on that isn't code related
+List of WIP cool stuff that isn't code related
 
 Research Paper for AP Capstone:
 - 4000-5000 word report pdf & Oral defense presentation pptx
