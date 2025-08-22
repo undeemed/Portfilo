@@ -10,7 +10,7 @@ Figma Designs:
 
 PRD Writing:
 - Costly PRD: https://docs.google.com/document/d/1nbsQ6ndQUmwXGgcGKo2F8kVodyiS-PcVwkcah7q8mOg/edit?usp=sharing
-- Listern PRD Writing: https://docs.google.com/document/d/16Qz6FBvm4Oqww7qe9Y6jr8oRZ7KSacbu5ZuRqb63nPs/edit?usp=sharing
+- Listern PRD: https://docs.google.com/document/d/16Qz6FBvm4Oqww7qe9Y6jr8oRZ7KSacbu5ZuRqb63nPs/edit?usp=sharing
 
 Hardware Projects:
 - Personal home server (NAS)
