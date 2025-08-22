@@ -17,7 +17,7 @@ PRD Writing:
 - Listern PRD: https://docs.google.com/document/d/16Qz6FBvm4Oqww7qe9Y6jr8oRZ7KSacbu5ZuRqb63nPs/edit?usp=sharing
 
 Hardware Projects:
-- Personal home server (NAS)
+- Budget home server (NAS)
   -  Truenas Server
   -  512GB M.2 SSD
   -  32GB DDR4
