@@ -1,6 +1,10 @@
 # Portfilo
 Stuff I did thats cool/currently working on that isn't code related
 
+Research Paper for AP Capstone:
+- 4000-5000 word report pdf & Oral defense presentation pptx
+- Located in Portfilo/research folder
+
 Figma Designs:
 - Costly App Tree Map: www.figma.com/board/M1IGARrEu7dyQboMD9M7zb/Costly-App-Tree?node-id=0-1&t=OEOZ04Zx2ZhsMNJv-1
 - Costly Design: www.figma.com/design/EvVIYpHyUKSm40OWidhztt/Costly-Design?node-id=0-1&t=nMXtD3WaVI0gb3Vf-1
