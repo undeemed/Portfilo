@@ -24,7 +24,6 @@ Hardware Projects:
   -  i7-7700k CPU
   -  Nvidia P4000 Quadro GPU
   -  4x4TB (16TB) of ~6000MB/s HDDs with RAIDz1
-  -  Domain: cesspool.dev (not public currently for security reasons)
   -  Using Tailscale VPN and Nginx Proxy
   -  I plan to host and build publicly starting with this so I won't need stuff like this on github anymore
  
