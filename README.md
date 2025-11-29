@@ -31,7 +31,7 @@ Hardware Projects:
 
 - Offline LLM for Solace:
   - Raspberry Pi 4
-  - 6~7 tokens/s
+  - ~6 tokens/s
   - ~10w power draw on 99% usage
   - 2.5GB storage
   - USB-C UPNP
