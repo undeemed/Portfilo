@@ -1,6 +1,6 @@
 # Portfilo
 
-List of WIP/Completed cool stuff that isn't code related
+## List of WIP/Completed cool stuff that isn't code related
 
 Research Paper for AP Capstone:
 
