@@ -1,6 +1,6 @@
 # Portfilo
 
-List of WIP cool stuff that isn't code related
+List of WIP/Completed cool stuff that isn't code related
 
 Research Paper for AP Capstone:
 
@@ -9,8 +9,8 @@ Research Paper for AP Capstone:
 
 Figma Designs:
 
-- Trading Anaylsis Pipeline: www.figma.com/board/VefznsfDzHkn6oAr1CUjGO/trading-analysis?node-id=0-1&t=st7VbnBSYHc2VYQ7-1
-- Solace Interface Design: www.figma.com/design/c7jzktb0H08fr4F754kTZI/Solace-Design?node-id=0-1&t=6WHQM3dBvtz1zkNy-1
+- Trading Anaylsis Pipeline: www.figma.com/board/VefznsfDzHkn6oAr1CUjGO/trading-analysis?node-id=0-1&t=st7VbnBSYHc2VYQ7-1.
+- Solace Interface Design: www.figma.com/design/c7jzktb0H08fr4F754kTZI/Solace-Design?node-id=0-1&t=6WHQM3dBvtz1zkNy-1.
 - Listern Website: Will make soon.
 
 PRD Writing:
