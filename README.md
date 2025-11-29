@@ -4,8 +4,8 @@ List of WIP/Completed cool stuff that isn't code related
 
 Research Paper for AP Capstone:
 
-- 4000+ word report pdf & Oral defense presentation pptx
-- Located in Portfilo/research folder
+- 4000+ word report pdf & Oral defense presentation pptx.
+- Located in Portfilo/research folder.
 
 Figma Designs:
 
