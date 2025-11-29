@@ -15,7 +15,7 @@ Figma Designs:
 
 PRD Writing:
 
-- Listern PRD: https://docs.google.com/document/d/16Qz6FBvm4Oqww7qe9Y6jr8oRZ7KSacbu5ZuRqb63nPs/edit?usp=sharing
+- Listern PRD: https://docs.google.com/document/d/16Qz6FBvm4Oqww7qe9Y6jr8oRZ7KSacbu5ZuRqb63nPs/edit?usp=sharing.
 
 Hardware Projects:
 
